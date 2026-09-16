@@ -100,6 +100,7 @@ Sauce-Demo-Automation-Testing
 │
 ├── pom.xml
 └── README.md
+```
 ---
 🎓 Key Learning
 Selenium WebDriver automation
