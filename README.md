@@ -81,6 +81,10 @@ Complete / Cancel Order
 Logout
 ```
 ---
+
+## 📂 Repository Contents
+
+```text
 Sauce-Demo-Automation-Testing
 │
 ├── src
@@ -101,16 +105,25 @@ Sauce-Demo-Automation-Testing
 ├── pom.xml
 └── README.md
 ```
+
 ---
-🎓 Key Learning
-Selenium WebDriver automation
-Java-based test scripting
-TestNG test execution
-Web element identification
-Dropdown handling
-End-to-end e-commerce testing
-Identifying application issues during automation
+
+## 🎓 Key Learning
+
+- Selenium WebDriver automation
+- Java-based test scripting
+- TestNG test execution
+- Web element identification
+- Dropdown handling
+- End-to-end e-commerce testing
+- Identifying application issues during automation
+
 ---
-👨‍💻 Author
-Samruddhi Jagtap
+
+## 👨‍💻 Author
+
+**Samruddhi Jagtap**
+
 Aspiring QA Engineer | Manual Testing | Automation Testing
+---
+er | Manual Testing | Automation Testing
