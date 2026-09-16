@@ -79,7 +79,7 @@ Customer Information
 Complete / Cancel Order
      ↓
 Logout
-'''
+```
 ---
 Sauce-Demo-Automation-Testing
 │
