@@ -122,8 +122,8 @@ Sauce-Demo-Automation-Testing
 
 ## 👨‍💻 Author
 
-**Samruddhi Jagtap**
+Samruddhi Jagtap
 
 Aspiring QA Engineer | Manual Testing | Automation Testing
+
 ---
-er | Manual Testing | Automation Testing
